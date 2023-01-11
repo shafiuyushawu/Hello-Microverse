@@ -61,9 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> My first Microverse project to display Hello World to the screen.
-
-**Hello Microverse** is a...
+**Hello Microverse**, This is my first Microverse project to display Hello World to the screen.
 
 ## 🛠 Built With <a name="built-with">HTML & CSS</a>
 
@@ -218,7 +216,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project, kindly follow me on GitHub 😊
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
