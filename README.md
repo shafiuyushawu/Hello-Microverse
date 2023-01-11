@@ -59,17 +59,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> My first Microverse project to display Hello World to the screen.
 
-**[your_project__name]** is a...
+**Hello Microverse** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">HTML & CSS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> D
 
 <details>
   <summary>Client</summary>
