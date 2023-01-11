@@ -224,7 +224,7 @@ If you like this project, kindly follow me on GitHub 😊
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for given me this platform to prove worth in Software Engineering.
+I would like to thank Microverse for given me this platform to prove my worth in Software Engineering.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
