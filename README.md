@@ -67,9 +67,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with">HTML & CSS</a>
 
-### Tech Stack <a name="tech-stack"></a>
-
-> D
+### Tech Stack <a name="tech-stack">N/A</a>
 
 <details>
   <summary>Client</summary>
@@ -104,9 +102,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [N/A](#)
+- [N/A]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +114,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:N/A
+In order to run this project you need: N/A
 
 <!--
 Example command:
@@ -193,7 +189,7 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHOR -->
 
-## 👥 Author <a name="authors">Shafiu Ibn Yushawu</a>
+## 👥 Author: <a name="authors">Shafiu Ibn Yushawu</a>
 
 👤 **Author**
 
@@ -215,8 +211,6 @@ Example:
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
