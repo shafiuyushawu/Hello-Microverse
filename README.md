@@ -203,15 +203,15 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="authors">Shafiu Ibn Yushawu</a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@shafiuyushawu](https://github.com/githubhandle)
-- Twitter: [@shafiuyushawu](https://twitter.com/twitterhandle)
-- LinkedIn: [shafiuyushawu](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@shafiuyushawu](https://github.com/shafiuyushawu)
+- Twitter: [@shafiuyushawu](https://twitter.com/shafiuyushawu)
+- LinkedIn: [shafiuyushawu](https://www.linkedin.com/in/shafiu-ibn-yushawu-610883164/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
