@@ -40,7 +40,6 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
 - [👥 Authors](#authors)
 - [📝 License](#license)
 
@@ -48,17 +47,13 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> My first Microverse project project that prints Hello World.
 
 <!-- **[Hello Microverse]** is a... -->
 
 ## 🛠 Built With <a name="built-with"></a>
 
 Built with HTML and CSS
-
-### Tech Stack <a name="tech-stack"></a>
-
-> A first microverse project to display hello world
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
