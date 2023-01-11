@@ -74,21 +74,21 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
@@ -96,11 +96,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[N/A]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +106,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [N/A](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,13 +114,11 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need:N/A
 
 <!--
 Example command:
@@ -136,7 +130,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: N/A
 
 <!--
 Example commands:
@@ -149,7 +143,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Install this project with: N/A
 
 <!--
 Example command:
@@ -162,7 +156,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: N/A
 
 <!--
 Example command:
@@ -174,7 +168,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: N/A
 
 <!--
 Example command:
@@ -186,7 +180,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: N/A
 
 <!--
 Example:
@@ -212,11 +206,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[N/A]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -234,8 +224,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -244,9 +232,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse for given me this platform to prove worth in Software Engineering.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
