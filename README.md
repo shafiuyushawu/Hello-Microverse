@@ -61,9 +61,7 @@ Built with HTML and CSS
 
 ## 👥 Author <a name="authors">Shafiu Ibn Yushawu</a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@shafiuyushawu](https://github.com/shafiuyushawu)
 - Twitter: [@shafiuyushawu](https://twitter.com/shafiuyushawu)
